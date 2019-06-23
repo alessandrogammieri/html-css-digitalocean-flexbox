@@ -194,6 +194,18 @@ header {
   font-size: 16px;
   font-weight: 600;
 }
+.bg-partner ul {
+  list-style: none;
+}
+.bg-partner ul li{
+  margin: 0 auto;
+}
+.flex-partner {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  flex-wrap: wrap;
+}
 
 /* Regole della Sezione prodotti */
 .bg-pro {
